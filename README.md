@@ -93,3 +93,6 @@ This file gives accuracy score for different sampling techniques(on inbalanced d
         <td>0.375</td>
     </tr>
 </table>
+
+<h3>Note:-accuracy value may be inaccurate or accurate as depicted in first half too</h3>
+<h6>For reference, csv file is added into this repo too but in python file its taken from original git link only</h6>
